@@ -1,3 +1,7 @@
+## Interactive Dashboard
+
+**[View Live Dashboard](https://airbnbrio.streamlit.app/)**
+
 # Airbnb Rio de Janeiro | Data Analysis
 
 An exploratory data analysis of Airbnb listings in Rio de Janeiro, Brazil, examining accommodation prices, neighborhood differences, guest capacity, and minimum stay requirements.
@@ -12,10 +16,6 @@ Using data from [Inside Airbnb](https://insideairbnb.com/), the project explores
 2. **Minimum stay requirements:** How do minimum stay policies differ between neighborhoods, and what proportion of listings require longer stays?
 
 The analysis is conducted in a Jupyter Notebook, with the main findings presented through an interactive Streamlit dashboard.
-
-## Interactive Dashboard
-
-**[View Live Dashboard](https://airbnbrio.streamlit.app/)**
 
 The dashboard provides interactive visualizations of median accommodation prices, comparisons by guest capacity, and minimum stay distributions across the 10 neighborhoods with the most listings.
 
